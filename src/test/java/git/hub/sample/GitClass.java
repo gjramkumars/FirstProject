@@ -5,8 +5,14 @@ public class GitClass {
 	public void methodGit() {
 	System.out.println("git success");
 	}
+
 	
 	public void methodGitEdited() {
+
+	public void methodGit1() {
+	System.out.println("git success");
+	}public void methodGit2() {
+
 	System.out.println("git success");
 	}
 }
